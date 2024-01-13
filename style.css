@@ -1,0 +1,104 @@
+body{
+    background: whitesmoke;
+}
+.box1{
+    background-color: white;
+    width: 672px;
+    height: 800px;
+    margin-left: 612px;
+    margin-top: 100px;
+    border-radius: 20px;
+    display: flex;
+}
+.number{
+    background-color: rgb(9, 16, 83);
+    width: 35px;
+    height: 29px;
+    margin-top: 44px;
+    margin-left: 20px;
+    border-radius: 5px;
+    display: flex;
+}
+.n1{
+    display: flex;
+    width: 613px;
+    height: 80px;
+    background-color: whitesmoke;
+    margin-top: 122px;
+    margin-left: -602px;
+    border-radius: 10px;
+}
+.n2{
+    display: flex;
+    width: 613px;
+    height: 80px;
+    background-color: whitesmoke;
+    margin-top: 10px;
+    margin-left: -601px;
+    border-radius: 10px;
+
+}
+.n3{
+    display: flex;
+    width: 613px;
+    height: 80px;
+    background-color: whitesmoke;
+    margin-top: 10px;
+    margin-left: -601px;
+    border-radius: 10px;
+
+}
+.n4{
+    display: flex;
+    width: 613px;
+    height: 80px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: -601px;
+    border-radius: 10px;
+}
+.p1{
+   font-size: 1.5em;
+   font-weight: 800;
+   margin-left: 20px;
+}
+.reddot{
+    background-color: red;
+    border-radius: 50%;
+    height: 10px;
+    margin-top: 31px;
+    width: 10px;
+    margin-left: 5px;
+}
+.n{
+    display: flex;
+    flex-direction: column;
+}
+.ta{
+   display: flex;
+   flex-direction: column;
+   width: 520px;
+   height: 100px;
+   border: 1px solid gainsboro;
+   margin-top: 80px;
+   margin-left: -50px;
+}
+.n5{
+    display: flex;
+    width: 613px;
+    height: 80px;
+    background-color: white;
+    margin-top: 133px;
+    margin-left: -601px;
+    border-radius: 10px;
+  
+}
+.n6{
+    display: flex;
+    width: 613px;
+    height: 80px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: -601px;
+    border-radius: 10px;
+}
